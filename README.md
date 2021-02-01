@@ -1,1 +1,3 @@
-# intro_in_git
+# Intro in Git commands
+## Autors
+Konstantīns Kotovičs
